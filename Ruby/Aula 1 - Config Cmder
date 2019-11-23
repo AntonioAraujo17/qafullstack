@@ -1,0 +1,8 @@
+1 - Baixar cmder
+
+2 - Criar uma pasta no disco C para uma melhor organização em tools
+
+3 - Adicionar variavel de ambiente:
+    nome: cmder
+    variavel: C:\tools\cmder\vendor\git-for-windows\usr\bin
+
