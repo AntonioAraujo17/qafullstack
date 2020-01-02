@@ -11,6 +11,8 @@ class ContaCorrente
 
 end
 
+a
+
 
 describe ContaCorrente do
     
