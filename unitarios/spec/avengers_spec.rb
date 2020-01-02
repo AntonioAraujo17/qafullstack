@@ -65,5 +65,10 @@ describe AvengerHeadQ do
     #expect(hq.listaAvengers[-1]).to match(avenger)
     #Verifica se não tem
     expect(hq.listaAvengers[-1]).not_to match(avenger)
+
+    it 'Não deve existir herois DC' do
+        
+
+    end
   end
 end
